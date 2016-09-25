@@ -29,7 +29,7 @@
     "run-sequence": "^1.0.0"
   },
   "peerDependencies": {
-    "dagre": "~0.7.4",
+    "ciena-dagre": "~1.0.0",
     "cytoscape": "^2.4.0"
   }
 }
